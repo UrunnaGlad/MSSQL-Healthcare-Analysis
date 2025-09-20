@@ -18,7 +18,7 @@ The goal of this analysis is to answer key business questions that provide insig
 
 ---
 
-## 🛠 Steps Taken
+## Steps Taken
 
 ### 🔍 Data Exploration
 
@@ -62,16 +62,6 @@ The goal of this analysis is to answer key business questions that provide insig
 
 ---
 
-## 📂 Repository Structure
-
-```
-📦 Healthcare_SQL_Project
- ┣ 📜 Healthcare_MSSQLquery.sql   # SQL queries for exploration, cleaning, and analysis
- ┗ 📜 README.md                   # Project documentation
-```
-
----
-
 ## 🚀 How to Run
 
 1. Open the project in **SQL Server Management Studio (SSMS)** or any MS SQL environment.
@@ -85,8 +75,7 @@ The goal of this analysis is to answer key business questions that provide insig
 
 ---
 
-## 📌 further career[ins
-
-* Use this analysis to build a **dashboard in Power BI or Tableau** for visualization.
+## 📌 Further Analysis
+* Build a **dashboard in Power BI or Tableau** for visualization.
 * Incorporate **predictive modeling** (e.g., length of stay prediction) using Python or R.
 * Expand insurance and medication analysis to **identify cost-saving opportunities**.
